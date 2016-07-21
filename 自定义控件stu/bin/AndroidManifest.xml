@@ -26,6 +26,10 @@
             android:name=".WidgetActivity"
             android:label="@string/title_activity_widget" >
         </activity>
+        <activity
+            android:name=".MenuActivity"
+            android:label="@string/title_activity_menu" >
+        </activity>
     </application>
 
 </manifest>

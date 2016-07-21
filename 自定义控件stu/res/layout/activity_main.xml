@@ -15,4 +15,12 @@
         android:text="TO_GROUPWIDGET"
         android:layout_centerHorizontal="true" />
 
+    <Button
+        android:id="@+id/to_downmenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/to_groupwidget"
+        android:layout_centerHorizontal="true"
+        android:text="TO_DOWNMENU" />
+
 </RelativeLayout>
